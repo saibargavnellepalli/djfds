@@ -1,0 +1,10 @@
+
+writing some code for addition of two number
+
+a = 10
+b = 20
+
+result = a+b
+
+
+
