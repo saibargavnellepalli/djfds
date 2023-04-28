@@ -4,6 +4,3 @@ newfile txt1
 
 
 newfile txt2
-
-
-newfile tx3
